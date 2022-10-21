@@ -16800,8 +16800,6 @@
 ||rr4---sn-4g5edndr.googlevideo.com^
 ||rr4---sn-4g5lznlz.googlevideo.com^
 ||rr3---sn-4g5edn6k.googlevideo.com^
-||rr2---sn-hgn7yn7l.googlevideo.com^
-||rr1---sn-hgn7rn7k.googlevideo.com^
 ||r2---sn-nv47lnsd.googlevideo.com^
 ||r1---sn-a5msenll.googlevideo.com^
 ||rr2---sn-uxaxjvhxbt2u-2nql.googlevideo.com^
@@ -16812,3 +16810,6 @@
 ||r5---sn-ab5l6nrl.googlevideo.com^
 ||r3---sn-4g5edndr.googlevideo.com^
 ||r2---sn-2gb7sn7y.googlevideo.com^
+||rr2---sn-uxaxjvhxbt2u-2nql.gvt1.com^
+||rr3---sn-uxaxjvhxbt2u-2nql.gvt1.com^
+||rr1---sn-uxaxjvhxbt2u-2nql.gvt1.com^
